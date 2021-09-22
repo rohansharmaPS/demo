@@ -8,5 +8,9 @@ int main()
 	scanf("%d",&b);
 	int res=a+b;
 	printf("%d,res);
+	res=a*b;
+	printf("%d",res);
+	res=a/b;
+	printf("%d",res);
 	return 0;
 }
